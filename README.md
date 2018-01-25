@@ -1,2 +1,2 @@
-# online-learning
-This is the repository where I add my programming assignments from courses I take online
+# Machine Learning by Andrew Ng
+This is the repo of the Machine Learning course by Standford University offered on Coursera
